@@ -1,5 +1,3 @@
-Certainly! Here's an example of an AI-related README.md file with detailed prompts:
-
 # AI Prompts
 
 This repository contains a collection of AI prompts to inspire and guide your AI-related projects. Whether you are working on machine learning, natural language processing, computer vision, or other AI domains, these prompts will help spark your creativity and provide a starting point for your projects.
