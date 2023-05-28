@@ -48,4 +48,4 @@ Contributions to this AI Website are highly encouraged! If you have new tutorial
 
 This repository and its contents are released under the [MIT License](LICENSE). Feel free to use, modify, and distribute the website and its resources in accordance with the license terms.
 
-We hope this AI Website serves as a valuable resource for your AI learning and exploration. If you have any questions or suggestions, please don't hesitate to reach out to the maintainers. Enjoy your AI journey!
+We hope this AI Website serves as a valuable resource for your AI learning and exploration. If you have any questions or suggestions, please don't hesitate to reach out to the maintainers. Enjoy your AI journey.!
