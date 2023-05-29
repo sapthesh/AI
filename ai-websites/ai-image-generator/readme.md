@@ -53,6 +53,16 @@ The AI Image Generator Website is a web application that integrates multiple AI 
 - You can modify the HTML, CSS, and JavaScript files to change the website's appearance and functionality.
 - To add or remove AI image generator options, update the `<select>` element in the HTML file (`index.php`) with the desired options.
 
+### SQL Table 
+
+```sql
+CREATE TABLE generated_images (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    random_value VARCHAR(10) NOT NULL,
+    image_url VARCHAR(255) NOT NULL
+);
+```
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
