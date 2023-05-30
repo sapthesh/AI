@@ -1,6 +1,6 @@
 # AI Website
 
-Welcome to the AI repository! This project aims to provide a comprehensive collection of resources, tutorials, and code examples for various artificial intelligence (AI) topics. Whether you're a beginner looking to get started with AI or an experienced practitioner seeking advanced techniques, this website has something for everyone.
+Welcome to the AI repository! This project aims to provide a comprehensive collection of resources, tutorials, and code examples for various artificial intelligence (AI) topics. Whether you're a beginner looking to get started with AI or an experienced practitioner seeking advanced techniques, this website has something for everyone..
 
 [![Hits](https://hits.sh/github.com/sapthesh/ai.svg?view=today-total)](https://hits.sh/github.com/sapthesh/ai/)
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/sapthesh/ai)
