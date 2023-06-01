@@ -1,6 +1,14 @@
 # AI Website
 
-Welcome to the AI repository! This project aims to provide a comprehensive collection of resources, tutorials, and code examples for various artificial intelligence (AI) topics. Whether you're a beginner looking to get started with AI or an experienced practitioner seeking advanced techniques, this website has something for everyone.
+Welcome to the AI repository! This project aims to provide a comprehensive collection of resources, tutorials, and code examples for various artificial intelligence (AI) topics. Whether you're a beginner looking to get started with AI or an experienced practitioner seeking advanced techniques, this website has something for everyone..
+
+[![Hits](https://hits.sh/github.com/sapthesh/ai.svg?view=today-total)](https://hits.sh/github.com/sapthesh/ai/)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/sapthesh/ai)
+![GitHub repo size](https://img.shields.io/github/repo-size/sapthesh/ai)
+![GitHub issues](https://img.shields.io/github/issues/sapthesh/ai)
+![GitHub watchers](https://img.shields.io/github/watchers/sapthesh/ai?style=social)
+
+
 
 ## Table of Contents
 
@@ -40,4 +48,4 @@ Contributions to this AI Website are highly encouraged! If you have new tutorial
 
 This repository and its contents are released under the [MIT License](LICENSE). Feel free to use, modify, and distribute the website and its resources in accordance with the license terms.
 
-We hope this AI Website serves as a valuable resource for your AI learning and exploration. If you have any questions or suggestions, please don't hesitate to reach out to the maintainers. Enjoy your AI journey!
+We hope this AI Website serves as a valuable resource for your AI learning and exploration. If you have any questions or suggestions, please don't hesitate to reach out to the maintainers. Enjoy your AI journey.!
